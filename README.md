@@ -6,6 +6,10 @@
 - 💬 Ask me about Office 365 Development
 - 📫 How to reach me: [@rebuf](https://twitter.com/rebuf)
 
+### My Stats ⚡
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mrebuffet&show_icons=true&hide_border=true)
+
 <!--
 **mrebuffet/mrebuffet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
