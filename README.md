@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on the [OnePlace Solutions](https://oneplacesolutions.com/) product suite
 - 🌱 I’m currently learning about Docker and Kubernetes
+- 📚 I'm also studying for the [MS-600 exam](https://docs.microsoft.com/en-us/learn/certifications/exams/ms-600)
 - 👯 I’m looking to collaborate on [SharePoint Pattern & Practises](https://pnp.github.io/) and especially [PnPJS](https://github.com/pnp/pnpjs/)
 - 💬 Ask me about Office 365 Development
 - 📫 How to reach me: [@rebuf](https://twitter.com/rebuf)
